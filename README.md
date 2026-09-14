@@ -22,4 +22,13 @@
   </a>
 </p>
 
+<p>About Me</p>
+<ul>
+  <li>Student of Software Engineering</li>
+  <li>Work with Python, Web Development, CPS (Cyber-Physical Systems)</li>
+  <li>Currently studying Database Architecture and JavaScript</li>
+  <li>Digital artist in my free time</li>
+  <li>Brazilian :brazil:</li>
+</ul>
+
 
