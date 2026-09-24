@@ -22,15 +22,14 @@
   </a>
 </p>
 
-<p>About Me</p>
-<ul>
-  <li>Student of Software Engineering</li>
-  <li>Work with Python, Web Development, CPS (Cyber-Physical Systems)</li>
-  <li>Currently studying Database Architecture and JavaScript</li>
-  <li>Digital artist in my free time</li>
-  <li>Brazilian <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1e7-1f1f7.svg" width="18" height="18" style="vertical-align: middle;"></li>
-</ul>
+---
 
-![AutumnFall](https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a)
+## About Me
+
+- Student of Software Engineering
+- Work with Python, Web Development, CPS (Cyber-Physical Systems)
+- Currently studying Database Architecture and JavaScript
+- Digital artist in my free time
+- Brazilian <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1e7-1f1f7.svg" width="18" height="18" style="vertical-align: middle;">
 
 
