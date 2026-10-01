@@ -28,7 +28,7 @@
 
 - Student of Software Engineering
 - Work with Python, Web Development, CPS (Cyber-Physical Systems)
-- Currently studying Database Architecture and JavaScript
+- Currently studying Database Architecture, JavaScript and git/github 
 - Digital artist in my free time
 - Brazilian <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1e7-1f1f7.svg" width="18" height="18" style="vertical-align: middle;">
 
